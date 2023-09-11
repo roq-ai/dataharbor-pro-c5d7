@@ -1,0 +1,2172 @@
+[
+  {
+    "integration": [
+      {
+        "id": "d3c04e34-0041-4357-91d3-d4cebff40fac",
+        "name": "Salesforce Integration",
+        "status": "Active",
+        "created_at": "2023-09-11T15:39:22.075Z",
+        "updated_at": "2023-09-10T23:11:59.520Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5775e728-5699-4278-b453-fa5e770c1af4",
+        "name": "MailChimp Integration",
+        "status": "Inactive",
+        "created_at": "2023-09-11T09:31:56.824Z",
+        "updated_at": "2023-09-11T06:12:27.293Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "449a7fad-60fd-45fa-88e2-09baab421b37",
+        "name": "Google Analytics Integration",
+        "status": "Pending",
+        "created_at": "2023-09-11T04:01:10.824Z",
+        "updated_at": "2023-09-11T02:55:32.842Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a7b4ae8f-c94a-4a8f-b9e4-3520e8ff98f7",
+        "name": "Zendesk Integration",
+        "status": "Enabled",
+        "created_at": "2023-09-11T01:17:42.985Z",
+        "updated_at": "2023-09-10T21:33:40.830Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "58afe9a3-cf7d-41e1-9d8e-4818f92a5715",
+        "name": "Slack Integration",
+        "status": "Disabled",
+        "created_at": "2023-09-11T13:31:06.259Z",
+        "updated_at": "2023-09-11T18:22:49.292Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "document": [
+      {
+        "id": "f52bacd3-9513-4c59-af5c-201730028dc1",
+        "title": "Annual Report",
+        "content": "This is the content of the annual report.",
+        "created_at": "2023-09-11T04:35:15.799Z",
+        "updated_at": "2023-09-11T07:11:12.030Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0a2cf2c6-3495-40d8-8c68-2a391629ea35",
+        "title": "Project Proposal",
+        "content": "Please find attached the project proposal.",
+        "created_at": "2023-09-11T15:48:40.442Z",
+        "updated_at": "2023-09-11T05:12:35.635Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6aba86db-d536-445b-8b96-3bcd91b57b94",
+        "title": "User Manual",
+        "content": "The user manual provides instructions for using the software.",
+        "created_at": "2023-09-11T06:16:39.490Z",
+        "updated_at": "2023-09-11T06:15:08.542Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "92cf0f99-0f0f-46d6-a1ee-51dd03d7e33d",
+        "title": "Marketing Plan",
+        "content": "The marketing plan outlines our strategies for the upcoming year.",
+        "created_at": "2023-09-11T16:49:01.134Z",
+        "updated_at": "2023-09-11T09:54:11.532Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9664c326-0ce8-4b6e-9abf-a2425b37a4d8",
+        "title": "Research Paper",
+        "content": "The research paper presents the findings of our study.",
+        "created_at": "2023-09-11T05:28:03.691Z",
+        "updated_at": "2023-09-11T01:28:08.572Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "data": [
+      {
+        "id": "5e84e620-3f85-4033-9c7c-cd15b2b504ab",
+        "name": "Customer Data",
+        "content": "This dataset contains information about our customers.",
+        "created_at": "2023-09-11T03:24:26.750Z",
+        "updated_at": "2023-09-11T16:20:12.658Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "98e1111e-166c-4b54-80de-38b0e17b33c5",
+        "name": "Sales Data",
+        "content": "The sales data includes details of all transactions.",
+        "created_at": "2023-09-11T15:38:52.093Z",
+        "updated_at": "2023-09-11T08:20:12.087Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "59bd9167-1e2d-4d8c-aaea-b9e86b26ab4f",
+        "name": "Inventory Data",
+        "content": "The inventory data lists all available products.",
+        "created_at": "2023-09-11T03:22:26.301Z",
+        "updated_at": "2023-09-11T15:00:08.496Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f14df02b-44a4-45bd-aa87-046d0776eff5",
+        "name": "Financial Data",
+        "content": "The financial data provides an overview of our company's finances.",
+        "created_at": "2023-09-11T06:14:47.590Z",
+        "updated_at": "2023-09-11T07:10:56.014Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "72fe1319-a228-4fe2-b2fc-484bcbec6819",
+        "name": "Product Data",
+        "content": "The product data includes specifications and pricing information.",
+        "created_at": "2023-09-11T08:56:27.030Z",
+        "updated_at": "2023-09-11T10:18:44.197Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "access_request": [
+      {
+        "id": "8eb34829-62bf-48f3-bcda-ee9c0a8510ee",
+        "status": "Approved",
+        "created_at": "2023-09-10T21:28:58.176Z",
+        "updated_at": "2023-09-10T21:58:27.983Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e58a08e7-408e-43d2-b824-a68c81c6ee98",
+        "status": "Pending",
+        "created_at": "2023-09-11T06:04:45.501Z",
+        "updated_at": "2023-09-11T10:12:41.612Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4cb10cf7-fd3f-4209-9a3f-7c028711ea5e",
+        "status": "Rejected",
+        "created_at": "2023-09-10T22:22:10.716Z",
+        "updated_at": "2023-09-11T12:46:24.369Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "154a5ebc-0a43-4886-8512-bd16c11b8388",
+        "status": "Cancelled",
+        "created_at": "2023-09-11T15:54:59.234Z",
+        "updated_at": "2023-09-11T09:24:40.321Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "98b03071-3cc0-41d4-bb7f-a7638a834ff4",
+        "status": "Processed",
+        "created_at": "2023-09-11T07:09:10.208Z",
+        "updated_at": "2023-09-11T08:51:41.561Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "8bcd5925-d290-42cd-857a-23aed33a6cf4",
+        "email": "Jeanette3@hotmail.com",
+        "firstName": "Amelie",
+        "lastName": "Roberts",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/7981340",
+        "tenantId": null
+      },
+      {
+        "reference": "95909fbd-7fe6-41be-ae9c-c9b4a6a8d56a",
+        "email": "Mathias.Witting@yahoo.com",
+        "firstName": "Erika",
+        "lastName": "Hermann",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/582.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "65ea37d6-ec3a-44b6-bf79-ca0bf61451a1",
+        "email": "Sanford.Kozey-Heidenreich55@hotmail.com",
+        "firstName": "Thea",
+        "lastName": "Leannon",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/89438564",
+        "tenantId": null
+      },
+      {
+        "reference": "e900ce08-ea18-4866-8487-aa254a78c0cb",
+        "email": "Deondre.Rolfson21@hotmail.com",
+        "firstName": "Johnpaul",
+        "lastName": "Christiansen",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1006.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c83e61fe-27de-4ca7-8a07-7c1531d1c00d",
+        "email": "Alivia_Sawayn@hotmail.com",
+        "firstName": "Michel",
+        "lastName": "Christiansen",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/344.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "integration": [
+      {
+        "id": "d82d7803-db9e-4fbd-b798-34f9a4d31796",
+        "name": "Salesforce Integration",
+        "status": "Active",
+        "created_at": "2023-09-11T07:17:05.486Z",
+        "updated_at": "2023-09-10T19:11:35.617Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "add42fb7-3cd5-418d-8eda-bedd20c007d8",
+        "name": "Mailchimp Integration",
+        "status": "Inactive",
+        "created_at": "2023-09-11T04:53:12.074Z",
+        "updated_at": "2023-09-10T19:29:06.052Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "83505ff8-3cc2-456b-a05d-369d8ca964f4",
+        "name": "Google Analytics Integration",
+        "status": "Pending",
+        "created_at": "2023-09-11T16:15:56.642Z",
+        "updated_at": "2023-09-10T21:38:24.743Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "4ced6784-8953-4e96-952e-651f174956fc",
+        "name": "Zendesk Integration",
+        "status": "Disabled",
+        "created_at": "2023-09-11T03:06:56.633Z",
+        "updated_at": "2023-09-10T22:16:06.511Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6b54db85-b08a-4f88-8fba-1ddd8f350761",
+        "name": "HubSpot Integration",
+        "status": "Enabled",
+        "created_at": "2023-09-11T09:05:24.562Z",
+        "updated_at": "2023-09-11T02:55:30.352Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "document": [
+      {
+        "id": "75a11cd3-8ba1-475c-9dd2-c9280a7d5bcf",
+        "title": "Annual Report",
+        "content": "This document contains the annual report for the fiscal year 2021.",
+        "created_at": "2023-09-11T14:25:10.617Z",
+        "updated_at": "2023-09-11T10:53:59.597Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1ba2e60d-1a7c-4275-8492-e5c797a1cdbc",
+        "title": "Project Proposal",
+        "content": "The project proposal outlines the scope, objectives, and deliverables of the project.",
+        "created_at": "2023-09-11T14:47:21.922Z",
+        "updated_at": "2023-09-11T14:37:06.112Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f361660d-2e7d-4919-89c2-38700109d6c3",
+        "title": "User Manual",
+        "content": "The user manual provides instructions on how to use the software.",
+        "created_at": "2023-09-11T01:39:00.842Z",
+        "updated_at": "2023-09-11T13:34:07.712Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f712a007-7290-4b42-95d3-9becf53ab705",
+        "title": "Marketing Plan",
+        "content": "The marketing plan outlines the strategies and tactics to promote the product.",
+        "created_at": "2023-09-11T06:21:10.459Z",
+        "updated_at": "2023-09-11T00:26:06.539Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0596bc7d-848b-46c6-811e-574fb4fd7188",
+        "title": "Research Paper",
+        "content": "The research paper presents the findings of a scientific study.",
+        "created_at": "2023-09-10T23:56:21.320Z",
+        "updated_at": "2023-09-10T21:04:18.191Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "data": [
+      {
+        "id": "b1311ae2-12c7-4ccc-a11f-1200d37ac84d",
+        "name": "Customer Data",
+        "content": "This data includes information about customers and their preferences.",
+        "created_at": "2023-09-11T11:18:33.816Z",
+        "updated_at": "2023-09-11T04:28:39.229Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f340aa54-ce22-4ab7-ac78-2378500a2f81",
+        "name": "Sales Data",
+        "content": "The sales data contains details of all transactions.",
+        "created_at": "2023-09-11T09:24:52.502Z",
+        "updated_at": "2023-09-11T01:04:14.166Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a9b51fe1-178a-4418-9205-fc8d4a6908ad",
+        "name": "Inventory Data",
+        "content": "The inventory data lists all available products and their quantities.",
+        "created_at": "2023-09-11T10:44:48.556Z",
+        "updated_at": "2023-09-10T21:24:59.658Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c4775639-36ef-4721-b0ea-18ba1a1dee2d",
+        "name": "Financial Data",
+        "content": "The financial data includes income statements and balance sheets.",
+        "created_at": "2023-09-11T03:37:39.187Z",
+        "updated_at": "2023-09-11T16:43:11.193Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d3fce910-b3c0-46c5-a1d4-10d3d7fc891e",
+        "name": "User Data",
+        "content": "The user data contains information about registered users.",
+        "created_at": "2023-09-10T22:53:33.160Z",
+        "updated_at": "2023-09-10T23:16:07.346Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "access_request": [
+      {
+        "id": "0592b9b0-de5b-44ae-ade6-0a0c6b076968",
+        "status": "Approved",
+        "created_at": "2023-09-11T14:13:43.351Z",
+        "updated_at": "2023-09-10T23:51:26.090Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "28618acf-7c03-480f-b8a1-6d7075bdedef",
+        "status": "Pending",
+        "created_at": "2023-09-10T20:16:58.845Z",
+        "updated_at": "2023-09-11T16:41:21.882Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ae4e5b5b-d09d-40d7-808c-86fa3c060317",
+        "status": "Rejected",
+        "created_at": "2023-09-11T10:25:47.131Z",
+        "updated_at": "2023-09-11T11:37:34.328Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f3a29c40-3b3d-450a-a3f1-56ae5c659995",
+        "status": "Cancelled",
+        "created_at": "2023-09-11T13:32:53.156Z",
+        "updated_at": "2023-09-11T04:11:18.223Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "417da818-b72f-4085-aba6-a78e8882535d",
+        "status": "Processed",
+        "created_at": "2023-09-11T17:34:13.035Z",
+        "updated_at": "2023-09-11T09:02:10.921Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "21d3cfad-f26d-4bb1-bd04-943f0b97763a",
+        "email": "Drew.Erdman@hotmail.com",
+        "firstName": "William",
+        "lastName": "Barrows",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/6924957",
+        "tenantId": null
+      },
+      {
+        "reference": "9a230ef9-0f53-45c4-aad7-77e02d21e42c",
+        "email": "Zoila.Moen81@yahoo.com",
+        "firstName": "Adella",
+        "lastName": "Marks",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1038.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2e914ea3-3983-4e36-935c-a77a0af4d273",
+        "email": "Teagan.Kris73@yahoo.com",
+        "firstName": "Rodrick",
+        "lastName": "Simonis",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/734.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "89361dbf-1ebf-4fe8-a68e-cbdedace5a20",
+        "email": "Herminia_Gulgowski@gmail.com",
+        "firstName": "Annabell",
+        "lastName": "Satterfield",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1134.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ce40b9f0-8b27-4274-8fcf-ed57de27fe8f",
+        "email": "Dawson_Fay@hotmail.com",
+        "firstName": "Jorge",
+        "lastName": "Veum",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/338.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "integration": [
+      {
+        "id": "044bc75d-0714-48f0-80b4-5ef5f8a6fc4e",
+        "name": "Salesforce Integration",
+        "status": "Active",
+        "created_at": "2023-09-11T16:32:11.692Z",
+        "updated_at": "2023-09-11T07:52:16.672Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5942ab9c-ac4a-4f0f-9b05-966f1bcb46b4",
+        "name": "Google Analytics Integration",
+        "status": "Inactive",
+        "created_at": "2023-09-11T02:52:17.861Z",
+        "updated_at": "2023-09-11T16:25:44.939Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "326934f3-ca14-4f37-a204-933a60845b1a",
+        "name": "Mailchimp Integration",
+        "status": "Pending",
+        "created_at": "2023-09-11T05:48:46.014Z",
+        "updated_at": "2023-09-11T13:53:04.567Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "26b6bbc7-4d17-4ad6-be92-977703cd3e48",
+        "name": "Zendesk Integration",
+        "status": "Error",
+        "created_at": "2023-09-11T14:26:49.753Z",
+        "updated_at": "2023-09-11T05:24:00.638Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9949d8a9-79e1-4dc0-b66d-9d63edd88d63",
+        "name": "Shopify Integration",
+        "status": "Completed",
+        "created_at": "2023-09-11T13:05:13.754Z",
+        "updated_at": "2023-09-11T15:45:32.483Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "document": [
+      {
+        "id": "bdb7dd3a-c3a9-4402-9390-688d01e36ab6",
+        "title": "Annual Report",
+        "content": "This document contains the financial summary for the fiscal year.",
+        "created_at": "2023-09-11T18:26:10.103Z",
+        "updated_at": "2023-09-11T11:18:52.756Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "155c6b2b-bacf-4978-953a-6c1d609c1e11",
+        "title": "Product Manual",
+        "content": "Step-by-step instructions on how to use the product.",
+        "created_at": "2023-09-10T21:53:04.968Z",
+        "updated_at": "2023-09-11T15:56:44.163Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "27ad17fb-9c09-4869-9276-131c405af195",
+        "title": "Marketing Proposal",
+        "content": "A detailed plan to promote the new product launch.",
+        "created_at": "2023-09-11T17:12:43.260Z",
+        "updated_at": "2023-09-11T11:02:56.959Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "26f15467-a214-44ce-94cf-0878cae4d9bb",
+        "title": "Research Paper",
+        "content": "A scientific study on the effects of climate change.",
+        "created_at": "2023-09-11T04:21:21.089Z",
+        "updated_at": "2023-09-10T21:07:20.320Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "65157b23-d1f5-4bf5-b09e-b9d42453f532",
+        "title": "User Guide",
+        "content": "Instructions on how to set up and configure the software.",
+        "created_at": "2023-09-11T01:10:00.849Z",
+        "updated_at": "2023-09-11T04:07:24.966Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "data": [
+      {
+        "id": "032c895f-3714-47c4-9316-789f9d72fcea",
+        "name": "Customer Data",
+        "content": "Contains information about the organization's customers.",
+        "created_at": "2023-09-10T19:20:19.878Z",
+        "updated_at": "2023-09-11T07:38:34.140Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ec6fbf03-d25b-48ab-8b8c-281c34b7c0b9",
+        "name": "Sales Data",
+        "content": "Includes sales figures and revenue data.",
+        "created_at": "2023-09-11T14:07:43.603Z",
+        "updated_at": "2023-09-10T22:35:55.781Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8b8180b4-4bef-4590-92dc-ca2d2631fad3",
+        "name": "Inventory Data",
+        "content": "Provides details about the organization's inventory.",
+        "created_at": "2023-09-11T18:01:31.480Z",
+        "updated_at": "2023-09-11T13:24:39.233Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a1aed665-b494-4d2b-a080-07a88da2cfbc",
+        "name": "Website Analytics Data",
+        "content": "Data collected from the organization's website.",
+        "created_at": "2023-09-11T17:03:48.727Z",
+        "updated_at": "2023-09-11T16:17:32.950Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9f20bf24-bf92-4dd9-a32d-b85b30bd0092",
+        "name": "Employee Data",
+        "content": "Contains information about the organization's employees.",
+        "created_at": "2023-09-11T02:46:14.512Z",
+        "updated_at": "2023-09-11T09:00:53.014Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "access_request": [
+      {
+        "id": "6cc483d7-ceee-4f78-b86a-8bcf773dd16b",
+        "status": "Approved",
+        "created_at": "2023-09-10T22:54:26.818Z",
+        "updated_at": "2023-09-10T19:21:29.051Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d099018e-4b35-40ec-b553-88f25619d8cb",
+        "status": "Pending",
+        "created_at": "2023-09-11T02:12:30.728Z",
+        "updated_at": "2023-09-11T02:58:41.120Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3ec5915e-9d32-4bae-9c8a-398e46a8cfec",
+        "status": "Rejected",
+        "created_at": "2023-09-11T02:38:21.352Z",
+        "updated_at": "2023-09-11T14:58:25.247Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "560ba1d2-be60-4668-aec2-42169b4d069f",
+        "status": "Cancelled",
+        "created_at": "2023-09-10T21:59:07.184Z",
+        "updated_at": "2023-09-11T01:08:35.739Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a698ce5a-2e73-4e0e-aa44-e8137580b2b7",
+        "status": "Expired",
+        "created_at": "2023-09-11T08:26:00.647Z",
+        "updated_at": "2023-09-10T23:42:02.801Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "c5788829-aa47-4960-8731-18d2d7a11627",
+        "email": "Santino.Hermann23@hotmail.com",
+        "firstName": "Rogelio",
+        "lastName": "Funk",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/743.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9f0d1822-35c2-44cf-a719-b569776dfcbc",
+        "email": "Pink.Ullrich@gmail.com",
+        "firstName": "Rae",
+        "lastName": "Schmeler",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90814290",
+        "tenantId": null
+      },
+      {
+        "reference": "25d163cb-5f61-402d-bfbb-236ce2515f67",
+        "email": "Lizzie_Yost@yahoo.com",
+        "firstName": "Stewart",
+        "lastName": "Reichel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1040.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "19ccdc6b-f3ee-430c-aa13-8c8deb2b1dbb",
+        "email": "Alfonzo_Mraz81@yahoo.com",
+        "firstName": "Selmer",
+        "lastName": "Cremin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/242.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b480b7ce-7678-4189-84d5-95667f501198",
+        "email": "Josh_Kessler82@gmail.com",
+        "firstName": "Alexandria",
+        "lastName": "Mills-Konopelski",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/539.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "integration": [
+      {
+        "id": "579cc498-3d4e-4ccf-aee1-a793d19f4e3f",
+        "name": "Salesforce Integration",
+        "status": "Active",
+        "created_at": "2023-09-11T13:38:30.138Z",
+        "updated_at": "2023-09-11T10:53:17.813Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "61713324-c63b-47c8-8a89-b77a1bf015ae",
+        "name": "Google Calendar Integration",
+        "status": "Inactive",
+        "created_at": "2023-09-10T20:49:44.204Z",
+        "updated_at": "2023-09-11T18:35:17.209Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "de90cebc-4258-409a-8a56-cf8e6764de64",
+        "name": "Mailchimp Integration",
+        "status": "Pending",
+        "created_at": "2023-09-11T05:00:44.355Z",
+        "updated_at": "2023-09-11T03:39:45.680Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6bcebd1d-bb78-4f8c-92bf-81fa4f79f248",
+        "name": "Slack Integration",
+        "status": "Error",
+        "created_at": "2023-09-10T22:56:36.936Z",
+        "updated_at": "2023-09-11T15:59:31.273Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2806096b-9e07-49b7-9278-dfceac0a21ba",
+        "name": "Zendesk Integration",
+        "status": "Completed",
+        "created_at": "2023-09-11T04:47:35.024Z",
+        "updated_at": "2023-09-11T02:08:45.155Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "document": [
+      {
+        "id": "95c4a660-3829-4907-9130-c99f11aa1a37",
+        "title": "Project Proposal",
+        "content": "This document outlines the proposed project plan and deliverables.",
+        "created_at": "2023-09-11T13:10:50.059Z",
+        "updated_at": "2023-09-11T16:19:46.465Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0c6daf70-03b3-4bc6-b7c0-72c14c05f778",
+        "title": "Meeting Minutes",
+        "content": "The minutes of the meeting held on [date] discussing [topic].",
+        "created_at": "2023-09-11T00:18:51.045Z",
+        "updated_at": "2023-09-10T21:51:23.282Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "aea53d98-f555-4cde-ba7a-af2d1898f562",
+        "title": "Financial Report",
+        "content": "A detailed report on the financial performance of the company.",
+        "created_at": "2023-09-11T09:42:37.449Z",
+        "updated_at": "2023-09-11T02:23:18.604Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8e799f3a-9236-4928-b552-9d44cd57e182",
+        "title": "User Manual",
+        "content": "A comprehensive guide on how to use the product.",
+        "created_at": "2023-09-11T11:07:06.930Z",
+        "updated_at": "2023-09-11T17:54:39.720Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0583aefa-0dac-4136-adc9-f23b1361a0cc",
+        "title": "Marketing Plan",
+        "content": "The strategic plan for marketing the company's products.",
+        "created_at": "2023-09-11T03:05:54.042Z",
+        "updated_at": "2023-09-11T13:48:05.551Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "data": [
+      {
+        "id": "9dd47c2f-afd7-4d6d-8c51-3f6f6b386b6e",
+        "name": "Product Data",
+        "content": "Data related to the company's products and their specifications.",
+        "created_at": "2023-09-11T18:24:43.144Z",
+        "updated_at": "2023-09-11T10:52:19.565Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ea68ccf1-690e-46ec-8d62-52543bb69f1b",
+        "name": "Customer Data",
+        "content": "Information about the customers, including their contact details and preferences.",
+        "created_at": "2023-09-11T10:50:17.650Z",
+        "updated_at": "2023-09-11T00:46:59.937Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8b5db2cb-b71a-46da-96c9-4663f733bf1d",
+        "name": "Sales Data",
+        "content": "Sales data including revenue, quantity sold, and customer information.",
+        "created_at": "2023-09-10T18:59:08.169Z",
+        "updated_at": "2023-09-11T06:09:07.712Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "992e19e9-bf86-4e34-8bcd-a47aabfa8d4e",
+        "name": "Inventory Data",
+        "content": "Data related to the company's inventory, including stock levels and location.",
+        "created_at": "2023-09-11T02:41:07.234Z",
+        "updated_at": "2023-09-11T17:16:24.310Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "66e4bf79-e516-4e8d-9cbd-0722d94389a2",
+        "name": "Marketing Data",
+        "content": "Data related to marketing campaigns and their performance.",
+        "created_at": "2023-09-11T07:13:43.105Z",
+        "updated_at": "2023-09-10T22:46:56.237Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "access_request": [
+      {
+        "id": "2a4cd79c-e848-4950-98a4-1226a531a74d",
+        "status": "Approved",
+        "created_at": "2023-09-11T05:45:04.237Z",
+        "updated_at": "2023-09-11T06:30:06.904Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2f933cce-9618-419f-9f61-0edabce61d18",
+        "status": "Pending",
+        "created_at": "2023-09-11T09:26:00.294Z",
+        "updated_at": "2023-09-11T06:14:47.664Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "450ca556-6860-4100-95fb-2a8b65d37a67",
+        "status": "Rejected",
+        "created_at": "2023-09-11T16:13:23.403Z",
+        "updated_at": "2023-09-10T21:04:33.035Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "523d114c-1296-4088-ab52-49c74f57b66e",
+        "status": "Cancelled",
+        "created_at": "2023-09-11T17:07:06.652Z",
+        "updated_at": "2023-09-11T04:13:10.793Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b26541db-036a-4640-91ba-1e1425652ca8",
+        "status": "Expired",
+        "created_at": "2023-09-11T00:16:27.150Z",
+        "updated_at": "2023-09-11T16:03:31.688Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "afa622d1-f08b-4378-b9f6-9c968d3b9c3c",
+        "email": "Eladio90@yahoo.com",
+        "firstName": "Cathryn",
+        "lastName": "Metz",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/84789790",
+        "tenantId": null
+      },
+      {
+        "reference": "23545a1b-16f3-4cb6-9ec6-f057fea6ac9a",
+        "email": "Simeon55@gmail.com",
+        "firstName": "Brad",
+        "lastName": "Waters",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/0.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c70ee9c3-97ec-40d0-85af-7f38c61df931",
+        "email": "Una.Lesch@hotmail.com",
+        "firstName": "Dasia",
+        "lastName": "Welch",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/55248158",
+        "tenantId": null
+      },
+      {
+        "reference": "0f279415-69d0-4525-838f-be7869105ef7",
+        "email": "Summer_Ernser@hotmail.com",
+        "firstName": "Leone",
+        "lastName": "Beier",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/21.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "dbb7b4d6-903e-403e-9bad-f4b90563215e",
+        "email": "Clint76@yahoo.com",
+        "firstName": "Iliana",
+        "lastName": "Friesen",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/34638288",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "integration": [
+      {
+        "id": "bf18915a-ecd4-42bf-9660-12462787cf08",
+        "name": "Salesforce",
+        "status": "Active",
+        "created_at": "2023-09-11T17:50:24.502Z",
+        "updated_at": "2023-09-11T02:25:06.436Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0204a54b-adaa-4b09-9ffe-0a53ed2c8f7f",
+        "name": "HubSpot",
+        "status": "Inactive",
+        "created_at": "2023-09-10T23:05:16.266Z",
+        "updated_at": "2023-09-11T09:49:50.069Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "52b66eff-7725-453d-9694-7cc40cff0226",
+        "name": "Mailchimp",
+        "status": "Pending",
+        "created_at": "2023-09-10T23:12:39.523Z",
+        "updated_at": "2023-09-11T08:34:12.362Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f0c24cd8-2fa2-44a2-a059-dd1505251626",
+        "name": "Zendesk",
+        "status": "Error",
+        "created_at": "2023-09-11T10:04:10.578Z",
+        "updated_at": "2023-09-11T09:20:45.388Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2e4645ec-cf08-4d99-a6fc-eefd7f391b1b",
+        "name": "Shopify",
+        "status": "Disabled",
+        "created_at": "2023-09-11T08:28:56.799Z",
+        "updated_at": "2023-09-11T17:16:38.265Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "document": [
+      {
+        "id": "b86e0cd7-c5d5-4e97-a30f-9d92dd05004e",
+        "title": "Annual Report",
+        "content": "This document provides a summary of the organization's activities and achievements over the past year.",
+        "created_at": "2023-09-11T01:45:14.230Z",
+        "updated_at": "2023-09-10T23:32:33.427Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "7b15e9cd-c4d4-41f3-aee4-b8c68e444c7b",
+        "title": "Marketing Strategy",
+        "content": "The marketing strategy outlines the key initiatives to promote the organization's products and services.",
+        "created_at": "2023-09-11T08:14:46.661Z",
+        "updated_at": "2023-09-11T00:30:21.236Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a90fa5fe-7b70-4a22-b19f-267407518339",
+        "title": "Project Proposal",
+        "content": "This proposal details the scope, timeline, and budget for a specific project.",
+        "created_at": "2023-09-10T21:21:05.236Z",
+        "updated_at": "2023-09-11T11:22:06.756Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "09c245bd-de2a-4b1a-8a07-1b401b3c3d02",
+        "title": "User Manual",
+        "content": "The user manual provides instructions on how to use a particular product or service.",
+        "created_at": "2023-09-10T22:59:22.503Z",
+        "updated_at": "2023-09-11T08:15:50.909Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "fb56419f-e3c7-4c67-ae5a-14e7b1e91ef2",
+        "title": "Research Paper",
+        "content": "This research paper presents the findings of a study conducted by the organization.",
+        "created_at": "2023-09-11T15:58:50.055Z",
+        "updated_at": "2023-09-11T17:27:49.857Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "data": [
+      {
+        "id": "5ef863e8-05bc-49b6-9df0-a53c7fc4ac78",
+        "name": "Customer Data",
+        "content": "This dataset contains information about the organization's customers.",
+        "created_at": "2023-09-10T22:27:40.017Z",
+        "updated_at": "2023-09-11T09:45:13.223Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f78f0df2-3ce3-4387-9b6e-9d59e1b76a96",
+        "name": "Sales Data",
+        "content": "This dataset includes sales data for the organization's products and services.",
+        "created_at": "2023-09-11T01:42:51.626Z",
+        "updated_at": "2023-09-11T13:33:12.910Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "558a54f7-ebeb-425d-8601-78f15bc228d8",
+        "name": "Product Data",
+        "content": "This dataset provides details about the organization's products.",
+        "created_at": "2023-09-10T20:18:08.708Z",
+        "updated_at": "2023-09-11T16:28:36.283Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "35c23daa-8bab-455b-aa4d-b654804ca104",
+        "name": "Financial Data",
+        "content": "This dataset contains financial information such as revenue and expenses.",
+        "created_at": "2023-09-11T12:23:56.371Z",
+        "updated_at": "2023-09-11T04:55:47.341Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a081ac72-f24e-46aa-9db7-6c0ee21931a5",
+        "name": "Inventory Data",
+        "content": "This dataset includes information about the organization's inventory.",
+        "created_at": "2023-09-11T14:56:47.087Z",
+        "updated_at": "2023-09-11T02:48:26.731Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "access_request": [
+      {
+        "id": "2816323c-e6e4-4c53-a44b-485599e0ad94",
+        "status": "Approved",
+        "created_at": "2023-09-10T23:47:10.381Z",
+        "updated_at": "2023-09-11T09:43:45.037Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "892263bd-a5f7-4136-8bb9-f2a65857d2c0",
+        "status": "Pending",
+        "created_at": "2023-09-11T00:34:34.042Z",
+        "updated_at": "2023-09-11T14:20:25.415Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e7126695-b7b7-4fe2-a12a-4984fa20d37a",
+        "status": "Rejected",
+        "created_at": "2023-09-11T04:14:49.228Z",
+        "updated_at": "2023-09-11T10:52:32.682Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b836acdd-0598-43c9-927a-7018668fe5d7",
+        "status": "Cancelled",
+        "created_at": "2023-09-11T06:56:38.585Z",
+        "updated_at": "2023-09-11T04:49:35.901Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "48cbf41f-4e8a-4b99-ba1b-c7845a13cf16",
+        "status": "Expired",
+        "created_at": "2023-09-10T23:35:15.594Z",
+        "updated_at": "2023-09-11T08:37:18.193Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "65a24ae8-a45b-4358-a0c0-e59a459883ac",
+        "email": "Afton72@gmail.com",
+        "firstName": "Anya",
+        "lastName": "Kunde",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/23135030",
+        "tenantId": null
+      },
+      {
+        "reference": "90a26e07-6a97-4fbe-adc7-609deed93956",
+        "email": "Liliane_Friesen31@hotmail.com",
+        "firstName": "Nathanial",
+        "lastName": "Moen",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/202.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "1c090084-c652-4b9d-b298-0d821cb01355",
+        "email": "Emilia15@hotmail.com",
+        "firstName": "Bill",
+        "lastName": "Cole",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/86.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5ebee1fa-3fbc-4431-a165-589194b36f25",
+        "email": "Kyle_Ward@gmail.com",
+        "firstName": "Cydney",
+        "lastName": "Dickinson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/93971009",
+        "tenantId": null
+      },
+      {
+        "reference": "0941c60c-ca9c-4bac-bd86-e92f70815779",
+        "email": "Carlee36@yahoo.com",
+        "firstName": "Kaylah",
+        "lastName": "Grant",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/180541",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "integration": [
+      {
+        "id": "27f0d703-e878-47d7-9428-2ab56e01eedf",
+        "name": "Salesforce Integration",
+        "status": "Active",
+        "created_at": "2023-09-11T12:07:22.391Z",
+        "updated_at": "2023-09-11T11:24:54.947Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "62d608c9-c855-4b25-bf45-0c9604211b0a",
+        "name": "Google Calendar Integration",
+        "status": "Inactive",
+        "created_at": "2023-09-11T14:41:31.558Z",
+        "updated_at": "2023-09-10T20:22:44.860Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8325f7bf-3d5d-46f1-b4b9-d36ad03cb76e",
+        "name": "Mailchimp Integration",
+        "status": "Pending",
+        "created_at": "2023-09-11T02:51:09.851Z",
+        "updated_at": "2023-09-11T07:01:42.657Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "39e14615-9d44-4e84-98b5-8150b9f21cea",
+        "name": "Slack Integration",
+        "status": "Connected",
+        "created_at": "2023-09-11T14:25:33.844Z",
+        "updated_at": "2023-09-11T11:16:27.849Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "08d8858d-55f5-4c9c-b872-942190f4ae77",
+        "name": "Zendesk Integration",
+        "status": "Disconnected",
+        "created_at": "2023-09-11T05:32:11.561Z",
+        "updated_at": "2023-09-11T08:33:40.546Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "document": [
+      {
+        "id": "6b234e95-0840-4468-9151-e3a2ee2197cc",
+        "title": "Annual Report",
+        "content": "This document provides an overview of the organization's activities for the past year.",
+        "created_at": "2023-09-11T14:04:41.377Z",
+        "updated_at": "2023-09-11T04:01:13.545Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "93c48d9f-7887-4361-8896-c5aebd5c91de",
+        "title": "Meeting Minutes",
+        "content": "The meeting minutes capture the discussions and decisions made during the meeting.",
+        "created_at": "2023-09-11T07:40:19.522Z",
+        "updated_at": "2023-09-11T04:42:12.131Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b2b5a994-5d6c-4e1f-a0e3-e2a17bf311b2",
+        "title": "Project Proposal",
+        "content": "The project proposal outlines the scope, objectives, and deliverables of the project.",
+        "created_at": "2023-09-11T12:59:36.815Z",
+        "updated_at": "2023-09-11T11:21:43.562Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "56beedd5-ccec-4667-a80f-6436cc70537f",
+        "title": "Training Manual",
+        "content": "The training manual provides step-by-step instructions for using the software.",
+        "created_at": "2023-09-11T17:59:26.117Z",
+        "updated_at": "2023-09-11T02:36:52.392Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b74d7dad-817d-4522-937c-394337218524",
+        "title": "Research Paper",
+        "content": "The research paper presents the findings of a study conducted by the organization.",
+        "created_at": "2023-09-11T17:37:29.334Z",
+        "updated_at": "2023-09-11T11:10:49.759Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "data": [
+      {
+        "id": "42ac3cfc-f6c9-4339-a750-f4d6d075752d",
+        "name": "Customer Data",
+        "content": "This dataset contains information about the organization's customers.",
+        "created_at": "2023-09-11T16:53:42.982Z",
+        "updated_at": "2023-09-10T22:03:31.331Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f16cbb86-de09-4ca8-a444-10beb7aa9c6d",
+        "name": "Product Data",
+        "content": "This dataset includes details about the organization's products.",
+        "created_at": "2023-09-11T07:12:50.876Z",
+        "updated_at": "2023-09-11T16:49:53.904Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3bcf5bf8-079f-4a2d-b31c-19a9e1453335",
+        "name": "Sales Data",
+        "content": "This dataset contains sales data for the organization.",
+        "created_at": "2023-09-10T19:25:48.632Z",
+        "updated_at": "2023-09-11T10:09:47.973Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b73a1a85-5aaa-4b37-b638-47298632fb21",
+        "name": "Inventory Data",
+        "content": "This dataset provides information about the organization's inventory.",
+        "created_at": "2023-09-11T09:07:28.900Z",
+        "updated_at": "2023-09-11T01:28:58.337Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6b0d6b5c-4a17-4c9b-83cf-da6169e863be",
+        "name": "Marketing Data",
+        "content": "This dataset includes marketing data and analytics.",
+        "created_at": "2023-09-11T09:29:39.675Z",
+        "updated_at": "2023-09-11T00:02:07.470Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "access_request": [
+      {
+        "id": "af1a7572-a53f-4fa4-93b3-0ba1f06284b0",
+        "status": "Approved",
+        "created_at": "2023-09-10T18:51:43.171Z",
+        "updated_at": "2023-09-11T00:11:47.850Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "53b29849-0bf2-4b29-8c4a-0e375581af08",
+        "status": "Pending",
+        "created_at": "2023-09-11T15:18:27.473Z",
+        "updated_at": "2023-09-11T12:52:12.382Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3d65192d-b123-4208-ad15-50fc0e34f50b",
+        "status": "Rejected",
+        "created_at": "2023-09-11T07:17:13.481Z",
+        "updated_at": "2023-09-11T13:44:06.397Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "02a52b06-f552-4ee4-843b-01db9dca1793",
+        "status": "Cancelled",
+        "created_at": "2023-09-11T12:28:41.682Z",
+        "updated_at": "2023-09-10T23:31:31.215Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a9eccb93-1fa9-45cb-9683-57d99ad8b239",
+        "status": "Expired",
+        "created_at": "2023-09-10T21:16:08.052Z",
+        "updated_at": "2023-09-10T22:05:39.567Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "bd0b6204-ba2f-47ea-8713-f8c03b7a438a",
+        "email": "Sven.Swift@yahoo.com",
+        "firstName": "Charley",
+        "lastName": "Mann-Thiel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/633.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7fde4645-ba75-411b-b1c1-3b310361a240",
+        "email": "Megane22@gmail.com",
+        "firstName": "Malvina",
+        "lastName": "O'Kon",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/99682692",
+        "tenantId": null
+      },
+      {
+        "reference": "ac48fe3d-7362-4cf2-b050-7e177dc765c5",
+        "email": "Dahlia.Rempel@gmail.com",
+        "firstName": "Eduardo",
+        "lastName": "Cartwright",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/95386040",
+        "tenantId": null
+      },
+      {
+        "reference": "386fd4c7-186b-4469-9919-f644b6f5b850",
+        "email": "Damaris_Hamill@gmail.com",
+        "firstName": "Koby",
+        "lastName": "Murray",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/49.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e880cec5-88ff-4388-b6eb-df99ea0637d6",
+        "email": "Mina.Vandervort@gmail.com",
+        "firstName": "Wilfredo",
+        "lastName": "Altenwerth",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/170.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "integration": [
+      {
+        "id": "65b01245-4271-4418-8e3b-db5f91d6ef3d",
+        "name": "Salesforce Integration",
+        "status": "Active",
+        "created_at": "2023-09-11T09:55:51.414Z",
+        "updated_at": "2023-09-11T13:35:08.903Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a37734aa-b225-49a7-90a1-a67dad74fbfc",
+        "name": "Google Calendar Integration",
+        "status": "Inactive",
+        "created_at": "2023-09-11T18:13:05.861Z",
+        "updated_at": "2023-09-11T05:39:46.040Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f72fde0d-343d-4cff-954f-2fa33283194c",
+        "name": "Slack Integration",
+        "status": "Pending",
+        "created_at": "2023-09-11T06:31:44.992Z",
+        "updated_at": "2023-09-11T13:18:19.050Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "eba02811-a2bb-4172-b9f0-524ebdd2b665",
+        "name": "MailChimp Integration",
+        "status": "Error",
+        "created_at": "2023-09-11T10:54:51.038Z",
+        "updated_at": "2023-09-11T04:28:41.764Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8020dd74-9a71-4b65-816a-ec02b86bcd80",
+        "name": "Zendesk Integration",
+        "status": "Completed",
+        "created_at": "2023-09-10T20:27:00.020Z",
+        "updated_at": "2023-09-11T15:44:26.381Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "document": [
+      {
+        "id": "ad7b79fe-0c62-4403-a75a-bb16d8bbd23d",
+        "title": "Annual Report",
+        "content": "This document contains the financial performance of the company for the year 2021.",
+        "created_at": "2023-09-11T17:19:50.133Z",
+        "updated_at": "2023-09-11T00:35:34.305Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "173cd93e-aa9c-490e-86ce-0f4e959edf36",
+        "title": "Marketing Strategy",
+        "content": "The marketing strategy outlines the key initiatives to reach the target audience.",
+        "created_at": "2023-09-11T16:22:48.454Z",
+        "updated_at": "2023-09-11T04:32:56.020Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5a2f8748-2208-4358-9d38-6bd53b5240ab",
+        "title": "Product Manual",
+        "content": "The product manual provides step-by-step instructions for using the product.",
+        "created_at": "2023-09-11T07:52:32.678Z",
+        "updated_at": "2023-09-11T14:04:04.841Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "98f222d9-7be1-4ab8-9145-30208ce00882",
+        "title": "Research Paper",
+        "content": "This research paper explores the impact of climate change on biodiversity.",
+        "created_at": "2023-09-11T13:48:32.712Z",
+        "updated_at": "2023-09-10T19:06:23.491Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "256e3029-f8d8-4ab7-817b-60392442804e",
+        "title": "Project Proposal",
+        "content": "The project proposal outlines the scope, timeline, and deliverables of the project.",
+        "created_at": "2023-09-11T08:12:26.060Z",
+        "updated_at": "2023-09-11T08:00:30.584Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "data": [
+      {
+        "id": "2b6e3cab-44ce-416b-ba38-8bccc1a08039",
+        "name": "Customer Data",
+        "content": "This dataset includes information about the customers of the company.",
+        "created_at": "2023-09-11T17:25:25.107Z",
+        "updated_at": "2023-09-11T11:52:09.696Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b9955d87-affc-4e66-9f29-6e56d2ede8a1",
+        "name": "Sales Data",
+        "content": "The sales data contains records of all the transactions made by the customers.",
+        "created_at": "2023-09-11T05:15:22.018Z",
+        "updated_at": "2023-09-11T14:34:32.917Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3650cc59-b967-4a98-8a79-a30620d076f4",
+        "name": "Inventory Data",
+        "content": "The inventory data provides details about the available stock of products.",
+        "created_at": "2023-09-10T21:22:20.512Z",
+        "updated_at": "2023-09-11T09:24:36.347Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5f49bf3b-a1a7-4183-948a-aa65090b07fb",
+        "name": "User Data",
+        "content": "The user data includes information about the registered users of the platform.",
+        "created_at": "2023-09-10T20:29:15.634Z",
+        "updated_at": "2023-09-11T07:47:18.866Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b44eaf03-c5f6-403e-8a10-6d23c939e71e",
+        "name": "Product Data",
+        "content": "The product data contains specifications and details about the products offered by the company.",
+        "created_at": "2023-09-10T20:30:01.901Z",
+        "updated_at": "2023-09-11T01:55:57.684Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "access_request": [
+      {
+        "id": "372b02d2-d828-4c43-a289-a48ae3defff6",
+        "status": "Approved",
+        "created_at": "2023-09-11T07:31:49.481Z",
+        "updated_at": "2023-09-11T06:08:57.477Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "61ac1d6e-3e26-40d0-b20d-3d72d467c0c3",
+        "status": "Pending",
+        "created_at": "2023-09-11T07:05:43.379Z",
+        "updated_at": "2023-09-11T17:46:50.113Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8e93b3d9-7941-4bdb-84e3-0a6ac9d6effc",
+        "status": "Rejected",
+        "created_at": "2023-09-11T15:26:13.634Z",
+        "updated_at": "2023-09-11T06:48:21.298Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dd6864fe-5e3d-4b43-937a-80b1b10c3f6a",
+        "status": "Cancelled",
+        "created_at": "2023-09-11T11:09:31.632Z",
+        "updated_at": "2023-09-10T23:36:28.463Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c38bd5b4-806a-4971-9186-91e9fec7f3f3",
+        "status": "Expired",
+        "created_at": "2023-09-11T02:57:59.369Z",
+        "updated_at": "2023-09-10T21:34:00.068Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "e941a908-708e-4860-82d0-7a7ba14f0701",
+        "email": "Kylee.Funk@gmail.com",
+        "firstName": "Zachary",
+        "lastName": "Weber",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/74032647",
+        "tenantId": null
+      },
+      {
+        "reference": "0e714ca3-6cc0-4873-a8f7-11ff7b9dfe53",
+        "email": "Haylee.Block38@hotmail.com",
+        "firstName": "Jerry",
+        "lastName": "Pollich",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/898.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "8fa50b8b-3cfe-4032-a729-d3a57abba4b4",
+        "email": "Greg.Quitzon@gmail.com",
+        "firstName": "Jovan",
+        "lastName": "Bernhard",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/88007703",
+        "tenantId": null
+      },
+      {
+        "reference": "40a7aa76-00ec-4fa2-982e-73a9f08de372",
+        "email": "Christop_Rice@yahoo.com",
+        "firstName": "Lorena",
+        "lastName": "Skiles",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54323246",
+        "tenantId": null
+      },
+      {
+        "reference": "ce6ed1d5-cb4d-4389-9a66-220809d48852",
+        "email": "Else66@hotmail.com",
+        "firstName": "Chet",
+        "lastName": "White",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1145.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "integration": [
+      {
+        "id": "06f2635d-de2c-4d95-b4d6-9445b48d575c",
+        "name": "Salesforce Integration",
+        "status": "Active",
+        "created_at": "2023-09-10T22:09:38.060Z",
+        "updated_at": "2023-09-10T20:42:42.089Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0704ba56-4e48-4662-8647-fedb6f7eb1b1",
+        "name": "Google Calendar Integration",
+        "status": "Inactive",
+        "created_at": "2023-09-11T01:41:05.228Z",
+        "updated_at": "2023-09-11T14:00:27.719Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "120dadbf-f6c6-4848-998e-44999328ee2b",
+        "name": "Mailchimp Integration",
+        "status": "Pending",
+        "created_at": "2023-09-11T14:58:23.888Z",
+        "updated_at": "2023-09-11T06:50:10.652Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a7b065e3-b89e-4482-9c80-1c72515af2c4",
+        "name": "Slack Integration",
+        "status": "Error",
+        "created_at": "2023-09-11T09:58:27.924Z",
+        "updated_at": "2023-09-11T01:08:38.351Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "aa01c09a-322f-42d1-afdb-d6eb462740b9",
+        "name": "Zendesk Integration",
+        "status": "Completed",
+        "created_at": "2023-09-11T14:16:40.910Z",
+        "updated_at": "2023-09-11T00:40:44.769Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "document": [
+      {
+        "id": "073b0ae8-3dfd-45bf-9958-77131272c508",
+        "title": "Annual Report",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "created_at": "2023-09-11T13:46:12.922Z",
+        "updated_at": "2023-09-11T12:28:34.151Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5c8cc21b-8932-4cdb-847f-4dd5bf95a4b3",
+        "title": "Marketing Strategy",
+        "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+        "created_at": "2023-09-10T21:37:07.019Z",
+        "updated_at": "2023-09-11T12:06:13.472Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "58352d8d-dd71-4395-a9c3-311969c5d760",
+        "title": "Employee Handbook",
+        "content": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
+        "created_at": "2023-09-11T02:03:03.269Z",
+        "updated_at": "2023-09-11T13:06:17.988Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6cb49e1d-52f0-418b-b41b-2f19a8e117d0",
+        "title": "Product Specifications",
+        "content": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+        "created_at": "2023-09-11T09:32:02.409Z",
+        "updated_at": "2023-09-11T10:05:51.141Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "cb46065d-b71c-48d8-95b2-01b4673f3c10",
+        "title": "Financial Statement",
+        "content": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+        "created_at": "2023-09-11T01:38:49.569Z",
+        "updated_at": "2023-09-11T04:53:45.613Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "data": [
+      {
+        "id": "96d2e426-1bc4-4940-aa99-163411c97947",
+        "name": "Product Data",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "created_at": "2023-09-11T02:31:21.132Z",
+        "updated_at": "2023-09-11T17:39:33.215Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "de004b1a-524d-4534-a807-07e7a2f57c35",
+        "name": "Customer Data",
+        "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+        "created_at": "2023-09-11T13:57:16.110Z",
+        "updated_at": "2023-09-11T08:50:29.251Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "daf684b7-c77b-4b45-b4f0-c70109023458",
+        "name": "Sales Data",
+        "content": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
+        "created_at": "2023-09-10T23:34:11.303Z",
+        "updated_at": "2023-09-10T20:05:50.670Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b60e1fd3-75f5-41b1-88e4-551683100e27",
+        "name": "Inventory Data",
+        "content": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+        "created_at": "2023-09-11T17:56:01.966Z",
+        "updated_at": "2023-09-10T22:55:58.908Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0b74cd70-874b-4f08-a33b-b10ad6814ba0",
+        "name": "Marketing Data",
+        "content": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+        "created_at": "2023-09-11T14:02:32.580Z",
+        "updated_at": "2023-09-11T14:27:06.392Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "access_request": [
+      {
+        "id": "7f318404-1c0b-4f63-91e4-a0d936deed2e",
+        "status": "Approved",
+        "created_at": "2023-09-11T02:44:57.267Z",
+        "updated_at": "2023-09-11T17:17:36.547Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9584b0d8-1012-4313-918e-41a4d737cab4",
+        "status": "Pending",
+        "created_at": "2023-09-11T00:40:53.868Z",
+        "updated_at": "2023-09-11T01:06:40.250Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d9be1fe4-0c96-4b99-95e8-7ee6ae6136a1",
+        "status": "Rejected",
+        "created_at": "2023-09-10T20:14:36.184Z",
+        "updated_at": "2023-09-11T00:45:34.114Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f4cc5784-1673-49b2-a9b4-f9ae3f06cdcb",
+        "status": "Cancelled",
+        "created_at": "2023-09-11T02:04:17.729Z",
+        "updated_at": "2023-09-11T05:21:20.479Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1877e77e-3be4-4c73-8a2c-72bac6102c5b",
+        "status": "Expired",
+        "created_at": "2023-09-11T13:34:52.344Z",
+        "updated_at": "2023-09-11T08:30:36.391Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "83a3b7b0-2a90-4828-be34-1948fddc034c",
+        "email": "Rosalia_Cartwright94@gmail.com",
+        "firstName": "Dandre",
+        "lastName": "Hamill-Goodwin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/245.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "44318d62-3a39-47bd-98d2-450c7ec66d79",
+        "email": "Emerald50@yahoo.com",
+        "firstName": "Gloria",
+        "lastName": "Thompson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1229.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "08d32055-98fe-4e74-a92d-f4eaf5762243",
+        "email": "Roger11@hotmail.com",
+        "firstName": "Stevie",
+        "lastName": "Lind",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/718.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "53f56e18-114d-437e-a3d4-f74eaa209d0e",
+        "email": "Annamae.Marvin45@hotmail.com",
+        "firstName": "Ottis",
+        "lastName": "Hansen",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90215869",
+        "tenantId": null
+      },
+      {
+        "reference": "d39def96-5794-4915-b52f-bb17171e2b07",
+        "email": "Alvena66@hotmail.com",
+        "firstName": "Nina",
+        "lastName": "Gottlieb",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1002.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "integration": [
+      {
+        "id": "9739a696-97ff-44d7-9b7c-ee283dcf681f",
+        "name": "Salesforce Integration",
+        "status": "Active",
+        "created_at": "2023-09-11T08:29:02.454Z",
+        "updated_at": "2023-09-11T17:25:03.928Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "7f4db387-d82f-4ca3-b7c6-c3879b6488f8",
+        "name": "Google Analytics Integration",
+        "status": "Inactive",
+        "created_at": "2023-09-11T09:03:20.371Z",
+        "updated_at": "2023-09-10T20:05:30.491Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "17923bd7-5e8d-47dc-a591-0ce196553d38",
+        "name": "Mailchimp Integration",
+        "status": "Pending",
+        "created_at": "2023-09-11T17:36:57.319Z",
+        "updated_at": "2023-09-11T04:14:36.680Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "160aa616-b27b-4517-ac57-e20656cb3c2d",
+        "name": "Shopify Integration",
+        "status": "Error",
+        "created_at": "2023-09-11T10:01:03.942Z",
+        "updated_at": "2023-09-11T04:45:03.799Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6e06e893-9b6f-479c-9d48-4ef52acdda62",
+        "name": "Zendesk Integration",
+        "status": "Completed",
+        "created_at": "2023-09-11T17:47:43.721Z",
+        "updated_at": "2023-09-11T16:55:56.165Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "document": [
+      {
+        "id": "b8730df6-75cc-498a-bc01-e966b05b7dbd",
+        "title": "Annual Report",
+        "content": "This document provides an overview of the organization's activities for the past year.",
+        "created_at": "2023-09-11T02:00:31.481Z",
+        "updated_at": "2023-09-11T03:59:32.945Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3e991ac1-3219-47db-9b3c-f8589ac4079a",
+        "title": "Project Proposal",
+        "content": "The project proposal outlines the scope, objectives, and deliverables of the project.",
+        "created_at": "2023-09-11T13:16:24.443Z",
+        "updated_at": "2023-09-11T04:21:24.240Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b750dea4-e896-460b-be24-ba0dc951e2a2",
+        "title": "User Manual",
+        "content": "The user manual provides step-by-step instructions on how to use the product.",
+        "created_at": "2023-09-11T06:51:27.181Z",
+        "updated_at": "2023-09-11T05:35:01.136Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1db650b5-744b-4c2b-96d4-ffca39a0ddc6",
+        "title": "Marketing Plan",
+        "content": "The marketing plan includes strategies to promote the company's products and services.",
+        "created_at": "2023-09-11T00:08:39.431Z",
+        "updated_at": "2023-09-11T11:45:26.799Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3a3008d8-6eee-47c9-92f0-6393d19c8efe",
+        "title": "Research Paper",
+        "content": "The research paper presents the findings of a study conducted by the organization.",
+        "created_at": "2023-09-11T17:33:13.727Z",
+        "updated_at": "2023-09-10T20:04:02.017Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "data": [
+      {
+        "id": "b66f8b27-2f24-4b25-91ae-4c0c5967e3a1",
+        "name": "Customer Data",
+        "content": "This dataset contains information about the organization's customers.",
+        "created_at": "2023-09-11T18:30:17.467Z",
+        "updated_at": "2023-09-10T18:57:32.208Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "18eacf4b-b20e-4358-a0c5-4784b2d1114c",
+        "name": "Product Data",
+        "content": "This dataset includes details of the organization's products.",
+        "created_at": "2023-09-11T07:59:19.726Z",
+        "updated_at": "2023-09-10T22:18:26.693Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ff5c51f9-b47c-454c-b2c4-6236ff206279",
+        "name": "Sales Data",
+        "content": "This dataset provides insights into the organization's sales performance.",
+        "created_at": "2023-09-11T10:16:19.714Z",
+        "updated_at": "2023-09-11T15:50:18.408Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d56c9477-016c-48e9-a7a5-f9b351ead555",
+        "name": "Inventory Data",
+        "content": "This dataset tracks the organization's inventory levels.",
+        "created_at": "2023-09-11T12:24:31.663Z",
+        "updated_at": "2023-09-10T21:09:06.472Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "206336f8-b38e-4782-8a63-b5d2f9b9a72a",
+        "name": "Financial Data",
+        "content": "This dataset contains financial information such as revenue and expenses.",
+        "created_at": "2023-09-11T10:54:18.902Z",
+        "updated_at": "2023-09-11T06:42:48.016Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "access_request": [
+      {
+        "id": "66c01a18-e192-4df7-9eff-f7840e02461c",
+        "status": "Pending",
+        "created_at": "2023-09-10T21:11:56.865Z",
+        "updated_at": "2023-09-11T08:59:08.965Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7597cc0b-0feb-4a4c-9a64-cadd02ad80fd",
+        "status": "Approved",
+        "created_at": "2023-09-11T16:38:31.282Z",
+        "updated_at": "2023-09-11T08:00:42.693Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4bc5afc8-74c5-4503-9946-df2d2100c645",
+        "status": "Rejected",
+        "created_at": "2023-09-11T07:27:33.119Z",
+        "updated_at": "2023-09-11T08:44:11.770Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9eba347f-02e6-4e13-9b4d-9e4b9920548a",
+        "status": "Cancelled",
+        "created_at": "2023-09-10T22:00:11.221Z",
+        "updated_at": "2023-09-10T20:50:52.580Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8ea291f6-5eba-4c2d-8bf2-1fd096ed4a03",
+        "status": "Expired",
+        "created_at": "2023-09-11T11:13:24.488Z",
+        "updated_at": "2023-09-11T07:43:08.278Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "c84da805-c40a-4969-be64-a5413fa1b376",
+        "email": "Burnice.OConnell90@gmail.com",
+        "firstName": "Wilford",
+        "lastName": "Pollich",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/174.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c0509860-4de4-45f3-969d-ade993c6d402",
+        "email": "Weldon_Runolfsson@yahoo.com",
+        "firstName": "Gail",
+        "lastName": "Turcotte",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/14300060",
+        "tenantId": null
+      },
+      {
+        "reference": "fadf5025-def9-41b8-aefb-dc503de2fa3b",
+        "email": "Lavern20@gmail.com",
+        "firstName": "Emerson",
+        "lastName": "Raynor",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/82492823",
+        "tenantId": null
+      },
+      {
+        "reference": "ca6e12c6-59a7-4dfe-b7d0-8ece1f1d1345",
+        "email": "Brady_Hickle-Roberts@gmail.com",
+        "firstName": "Destiney",
+        "lastName": "Pouros",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/55973655",
+        "tenantId": null
+      },
+      {
+        "reference": "895493d3-f19b-49d2-8374-662cd5e36f4b",
+        "email": "Betty45@gmail.com",
+        "firstName": "Berneice",
+        "lastName": "Marvin-Koch",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36847245",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "integration": [
+      {
+        "id": "17228876-4dc4-4678-8dda-038f6ba5246c",
+        "name": "Salesforce Integration",
+        "status": "Active",
+        "created_at": "2023-09-10T21:57:22.130Z",
+        "updated_at": "2023-09-10T22:05:43.585Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "dd316976-37bf-44ea-9a0b-c290eb171057",
+        "name": "MailChimp Integration",
+        "status": "Inactive",
+        "created_at": "2023-09-11T13:17:37.734Z",
+        "updated_at": "2023-09-11T14:36:11.568Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "e11894de-12db-4c95-b9f0-5479373926fa",
+        "name": "Google Analytics Integration",
+        "status": "Pending",
+        "created_at": "2023-09-10T19:54:06.647Z",
+        "updated_at": "2023-09-11T06:16:45.075Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "98b86a6c-20be-4812-936b-9f469c81ceec",
+        "name": "Zendesk Integration",
+        "status": "Disabled",
+        "created_at": "2023-09-11T16:46:48.945Z",
+        "updated_at": "2023-09-11T04:05:04.814Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "4377239d-2aa1-40e4-8204-2b8b28e70b15",
+        "name": "Slack Integration",
+        "status": "Enabled",
+        "created_at": "2023-09-11T02:04:00.517Z",
+        "updated_at": "2023-09-11T07:37:12.653Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "document": [
+      {
+        "id": "47e8cba4-e2d7-4d5e-b736-d0859cbd41a0",
+        "title": "Annual Report",
+        "content": "This document contains the financial performance of the organization for the year 2021.",
+        "created_at": "2023-09-11T03:38:10.185Z",
+        "updated_at": "2023-09-11T04:14:32.044Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "83e1a2bf-344e-4e67-81c6-6aa2e42d513e",
+        "title": "Marketing Strategy",
+        "content": "The marketing strategy outlines the plan to attract new customers and increase brand awareness.",
+        "created_at": "2023-09-10T22:40:40.582Z",
+        "updated_at": "2023-09-10T19:55:38.507Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5430f82c-0102-4885-b18e-6860d9be8d67",
+        "title": "Project Proposal",
+        "content": "The project proposal details the scope, objectives, and deliverables of the project.",
+        "created_at": "2023-09-11T14:26:07.852Z",
+        "updated_at": "2023-09-11T12:06:32.994Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "00662ca1-e3ba-4a56-9165-0703dd959962",
+        "title": "User Manual",
+        "content": "The user manual provides instructions on how to use the product effectively.",
+        "created_at": "2023-09-11T01:17:43.108Z",
+        "updated_at": "2023-09-11T10:23:10.708Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5e8b1b28-b71b-4ff7-8715-c920911b357b",
+        "title": "Research Paper",
+        "content": "The research paper presents the findings of a scientific study conducted by the organization.",
+        "created_at": "2023-09-11T01:33:36.015Z",
+        "updated_at": "2023-09-11T04:13:09.650Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "data": [
+      {
+        "id": "de8811a0-e4dd-40d8-b55c-e874e2424e03",
+        "name": "Customer Data",
+        "content": "This dataset contains information about the organization's customers.",
+        "created_at": "2023-09-11T04:31:14.364Z",
+        "updated_at": "2023-09-10T22:35:38.282Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "cbf4505b-3bcb-47e2-9890-6a961f86666e",
+        "name": "Product Data",
+        "content": "This dataset includes details about the organization's products and services.",
+        "created_at": "2023-09-11T02:15:57.084Z",
+        "updated_at": "2023-09-10T21:17:39.240Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "23cac66d-1582-4a71-b53c-12efd7f446d6",
+        "name": "Sales Data",
+        "content": "This dataset contains sales data, including revenue and quantity sold.",
+        "created_at": "2023-09-11T01:56:53.487Z",
+        "updated_at": "2023-09-11T10:06:06.111Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "4c92bf39-bd2e-416d-ae41-89b447eccd62",
+        "name": "Inventory Data",
+        "content": "This dataset provides information about the organization's inventory.",
+        "created_at": "2023-09-11T17:11:05.860Z",
+        "updated_at": "2023-09-11T07:00:48.899Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f69eb89a-5f24-4efa-8bce-d806fe248363",
+        "name": "Employee Data",
+        "content": "This dataset includes details about the organization's employees.",
+        "created_at": "2023-09-11T07:08:55.059Z",
+        "updated_at": "2023-09-11T04:52:23.536Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "access_request": [
+      {
+        "id": "731769c2-b3b1-4ee8-a092-1d7f80ea9585",
+        "status": "Approved",
+        "created_at": "2023-09-10T21:53:04.679Z",
+        "updated_at": "2023-09-11T00:59:53.664Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e19218c4-4e53-4478-bcaf-1815db816368",
+        "status": "Pending",
+        "created_at": "2023-09-11T15:28:13.559Z",
+        "updated_at": "2023-09-11T09:51:29.249Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "875a8ba0-d219-454a-93aa-7c7c94c1159c",
+        "status": "Rejected",
+        "created_at": "2023-09-11T07:33:49.030Z",
+        "updated_at": "2023-09-10T23:36:47.121Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d19c9853-86ad-4ca8-adc3-36e52d0f725f",
+        "status": "Cancelled",
+        "created_at": "2023-09-11T11:20:33.160Z",
+        "updated_at": "2023-09-11T09:25:28.353Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2728d90a-8857-4fef-9324-4a68ec40d582",
+        "status": "Completed",
+        "created_at": "2023-09-11T15:40:52.737Z",
+        "updated_at": "2023-09-11T10:49:12.540Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "49fa6032-b00d-4bfd-ae42-c61f8eb29af2",
+        "email": "Amely.Hahn@gmail.com",
+        "firstName": "Nya",
+        "lastName": "Kutch",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1086.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f1ecc963-f840-4e77-b208-84166b450016",
+        "email": "Mittie63@yahoo.com",
+        "firstName": "Terence",
+        "lastName": "Schoen",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/88667783",
+        "tenantId": null
+      },
+      {
+        "reference": "d1b0f3dc-ea11-401b-a25d-851e9469ba5d",
+        "email": "Wilber33@hotmail.com",
+        "firstName": "Pete",
+        "lastName": "Osinski-Schoen",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/46356950",
+        "tenantId": null
+      },
+      {
+        "reference": "ecbf0166-5a87-408c-94c2-b229ebcf9668",
+        "email": "Rhoda.Kautzer@hotmail.com",
+        "firstName": "Marques",
+        "lastName": "Windler",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/21548088",
+        "tenantId": null
+      },
+      {
+        "reference": "68afbefd-e63c-4e93-9eee-c57cdeb1fd76",
+        "email": "Kaitlin.Rempel@hotmail.com",
+        "firstName": "Sedrick",
+        "lastName": "DuBuque",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69276921",
+        "tenantId": null
+      }
+    ]
+  }
+]
